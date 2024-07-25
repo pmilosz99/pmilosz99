@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hello there 👋, I'm Piotr</h1>
 
 <!--
 **pmilosz99/pmilosz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Front-end Developer with nearly 2 years of commercial experience.
+
+- I specialize in TypeScript, React, and GIS. In the future, I plan to learn Angular.
+- I'm passionate about the space industry. 🚀
+
+#### Visits:
+![Visitor Count](https://profile-counter.glitch.me/{pmilosz99}/count.svg)
