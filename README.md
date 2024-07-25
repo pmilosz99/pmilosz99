@@ -20,5 +20,4 @@ I'm a Front-end Developer with nearly 2 years of commercial experience.
 - I specialize in TypeScript, React, and GIS. In the future, I plan to learn Angular.
 - I'm passionate about the space industry. 🚀
 
-#### Visits:
-![Visitor Count](https://profile-counter.glitch.me/{pmilosz99}/count.svg)
+![](https://komarev.com/ghpvc/?username=pmilosz99&style=flat&blue)
